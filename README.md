@@ -15,6 +15,8 @@ It involves cleaning, transforming, and visualizing an educational dataset of 60
 
 ## 🔧 Data Preparation & Transformation
 
+![Power Query](screenshots/PowerQuerySteps.jpg)
+
 Done in Power Query Editor (Power BI Desktop):
 - Removed missing values in `College Type`
 - Renamed columns for clarity
@@ -40,12 +42,13 @@ All visuals are interactive and cross-filtered using slicers.
 
 ---
 
-## 🤖 Q&A Visual Page
 
-![QnA](screenshots/qna.png)
+## 📈 Report Page (Main Dashboard)
 
-This page uses Power BI’s natural language Q&A feature  
-(e.g., “Top 5 specializations by count” → dynamic visual generated)
+This is the main report page built in Power BI showing key insights.
+
+![Report Page](screenshots/Report_Page.png)
+
 
 ---
 

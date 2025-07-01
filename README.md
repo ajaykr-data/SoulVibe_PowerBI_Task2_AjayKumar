@@ -47,7 +47,7 @@ All visuals are interactive and cross-filtered using slicers.
 
 This is the main report page built in Power BI showing key insights.
 
-![Report Page](screenshots/Report Page.png)
+![Report Page](screenshots/Report_Page.png)
 
 
 ---

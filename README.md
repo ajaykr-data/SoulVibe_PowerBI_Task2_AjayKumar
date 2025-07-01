@@ -15,7 +15,7 @@ It involves cleaning, transforming, and visualizing an educational dataset of 60
 
 ## 🔧 Data Preparation & Transformation
 
-![Power Query](screenshots/PowerQuerySteps.jpg)
+![Power Query](screenshots/PowerQuerySteps.png)
 
 Done in Power Query Editor (Power BI Desktop):
 - Removed missing values in `College Type`
@@ -47,7 +47,7 @@ All visuals are interactive and cross-filtered using slicers.
 
 This is the main report page built in Power BI showing key insights.
 
-![Report Page](screenshots/Report_Page.png)
+![Report Page](screenshots/Report Page.png)
 
 
 ---
